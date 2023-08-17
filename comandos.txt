@@ -1,0 +1,54 @@
+  503  mkdir checkpoint-thamaraRamos16-08-23
+  504  code .
+  505  ls
+  506  cd checkpoint-thamaraRamos16-08-23/
+  507  code .
+  508  git init
+  509  touch main.js index.html
+  510  git add .
+  511  git commit -m "commit 01 de thamara ramos"
+  512  git remote add origin https://github.com/thamaraRD/checkpoint-thamararamos16-08-23.git
+  513  git push origin master
+  514  git checkout -b feature
+  515  mkdir hardware resument.txt software resument.txt seguridadInformatica resumen.txt
+  516  rm resumen.txt
+  517  rm -r resumen.txt
+  518  rm -r resumen.txt
+  519  rm -r resument.txt
+  520  ls
+  521  cd hardware/
+  522  tocuh resumen.txt
+  523  touch resumen.txt
+  524  cd ..
+  525  cd seguridadInformatica/
+  526  touch resumen.txt
+  527  cd ..
+  528  ls
+  529  cd software/
+  530  touch resumen.txt
+  531  git status
+  532  git add .
+  533  git commit -m "commit 02 de thamara ramos"
+  534  git push origin feature
+  535  git branch
+  536  git checkout master
+  537  ls
+  538  cd ..
+  539  pwd
+  540  ls
+  541  mv main.js resumenHardware.txt
+  542  ls
+  543  echo "videojuegos, de gestion, de seguridad" > resumenHardware.txt
+  544  mv index.html resumenSoftware.txt
+  545  echo "videojuegos, de gestion, de seguridad" > resumenSoftware.txt
+  546  echo "ram, rom, cache" > resumenHardware.txt
+  547  pwd
+  548  git branch
+  549  git history
+  550  git --help
+  551  git loh
+  552  git log
+  553  git stash
+  554  history
+  555  touch comandos.txt
+  556  history 54 > comandos.txt
